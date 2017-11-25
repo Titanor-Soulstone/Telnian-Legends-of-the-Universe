@@ -1,1 +1,3 @@
-
+<Version: 1.0.1>
+/js/plugins.js https://raw.githubusercontent.com/Titanor-Soulstone/Telnian-Legends-of-the-Universe/master/updates/plugins.js
+<End of Version>
